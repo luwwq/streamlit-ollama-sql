@@ -1,0 +1,11 @@
+langchain
+langchain_community
+pandasai
+ollama
+streamlit
+streamlit-extras
+htbuilder
+dotenv
+openai
+matplotlib
+sqlalchemy
